@@ -1,4 +1,4 @@
-What is da.gd?
+What is short url?
 ==============
 
 [![Build Status](https://secure.travis-ci.org/dagd/dagd.png?branch=master)](http://travis-ci.org/dagd/dagd)
